@@ -1,8 +1,8 @@
 <?php
-    $host = "localhost";
-    $user = "jhon";
-    $clave = "espilco";
-    $bd = "db_sistema_ventas";
+    $host = "https://tescanet.com/";
+    $user = "media1@tescanet.com";
+    $clave = "6SDdSNiEfpoxF7V";
+    $bd = "db_sistema_ventas_upn";
     $port=3306;
 
     try {
