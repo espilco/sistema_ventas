@@ -10,7 +10,7 @@
         // Establecer el modo de error de PDO para manejar excepciones
         $conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (PDOException $e) {
-        echo "No se pudo conectar a la base de datos: " . $e->getMessage();
+        echo "No se pudo conectar a la base de datos: " . $e->getMessage() . " " . $host;
         exit();
     }
 ?>
