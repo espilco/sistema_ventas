@@ -1,5 +1,5 @@
 <?php
-    $host = "https://tescanet.com/";
+    $host = "144.217.242.234";
     $user = "media1@tescanet.com";
     $clave = "6SDdSNiEfpoxF7V";
     $bd = "db_sistema_ventas_upn";
