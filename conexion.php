@@ -1,7 +1,7 @@
 <?php
-    $host = "144.217.242.234";
-    $user = "media1@tescanet.com";
-    $clave = "6SDdSNiEfpoxF7V";
+    $host = "http://sistemaposventa-server.mysql.database.azure.com";
+    $user = "yrsfqizgok";
+    $clave = "h$i0cV9XYhAbcRNw";
     $bd = "db_sistema_ventas_upn";
     $port=3306;
 
